@@ -1,8 +1,5 @@
-🎂 ⠂17 y/o [27/12/06]
-🎵  ⠂musician for around 1.5 years
-🖥️  ⠂programmer for around 2 years
-💞 ⠂taken <3
-🖌️ ⠂pfp: @den4su
+17
+i cooka da pizza
 
 <!---
 fizzyflux/fizzyflux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
